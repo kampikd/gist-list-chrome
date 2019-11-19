@@ -1,0 +1,10 @@
+{
+    "name": "GistList",
+    "version": "0.0.1",
+    "description": "List all gists you've accessed throughout the history",
+    "permissions": ["storage", "history"],
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+  }
